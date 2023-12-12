@@ -31,19 +31,19 @@ In order to start my scan and find my IP address I had to download Fing Network 
 <br />
 <br />
 Then I opened Terminal C and typed in ifconfig, to get my IP address:  <br/>
-<img src="https://i.imgur.com/PGKxgGG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/trdfEpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 I proceeded with my first scan after obtaining my IP address with no configurations:  <br/>
-<img src="https://i.imgur.com/nrTnLio.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nrTnLio.png" height width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 For my next scan I made some configurations and a few remediations:  <br/>
 <img src="https://i.imgur.com/jxWBgOa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lastly, I took action to address the identified issues after completing my scan and testing some configurations on my MacOS. I later disabled an httpd track/trace that showed as HIGH vulnerability and did some updates. The objective of this project was to show the impact that applications have on a system and the vulnerabilities they can expose. This project allowed me to display my understanding of vulnerability management and the basic knowledge of the vulnerability cycle. I'm excited that this serves as a starting point for future advancement and growth in this area:  <br/>
+<img src="https://i.imgur.com/AykzW7Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
